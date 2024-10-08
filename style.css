@@ -179,8 +179,8 @@ p {
     margin-top: 15px;
 }
 .oma-img {
-    width: auto;
-    height: auto;
+    width: 45%;               
+    height: auto; 
     border: 4px solid #FAF0EF;
 }
 .kuvaminusta-img {
