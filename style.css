@@ -188,13 +188,15 @@ p {
     width: 80%;         
     height: auto;        
     margin-top: 15px;    
-    border-radius: 0px; 
+    border-radius: 0px;
+    border: 4px solid #FAF0EF; 
 }
 .kuvaminusta-img {
-    width: auto;
-    height: auto;
-    border: 4px solid #FAF0EF;
-    margin-bottom: 40px;
+    width: 80%;         
+    height: auto;        
+    margin-top: 15px;    
+    border-radius: 0px;
+    border: 4px solid #FAF0EF; 
 }
 /* yhteydenottoboksi */
 form {
