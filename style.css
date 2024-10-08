@@ -385,3 +385,8 @@ figcaption {
     font-style: italic;
     color: #9B2728;
 }
+@media only screen and (min-width: 1025px) {
+    .content {
+        width 55%;
+    }
+}
