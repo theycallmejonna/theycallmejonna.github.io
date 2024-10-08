@@ -172,11 +172,9 @@ p {
 }
 /* etusivun omakuvan tyylittelyt */
 .omakuva {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh; 
-    margin-top: 15px;
+    width: 45%;               
+    height: auto; 
+    border: 4px solid #FAF0EF;
 }
 .oma-img {
     width: 45%;               
