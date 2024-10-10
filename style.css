@@ -141,10 +141,13 @@ p {
     border-radius: 15px;
 } 
 .box2 h1 {
-    color: #9B2728
+    color: #9B2728;
+}
+.box2 h2 {
+    color: #531949;
 }
 .box2 p {
-    color: #531949
+    color: #531949;
 }
 .box3 {
     background-color: #D3C8F2; 
@@ -158,7 +161,12 @@ p {
     margin-bottom: 90px;
     border-radius: 15px;
 }
-  
+.box3 h1 {
+    color: #9B2728;
+}
+.box3 p {
+    color: #531949;
+}  
 .minustalyhyesti {
     text-align: center;
 }
@@ -331,6 +339,7 @@ textarea {
     font-family: 'Abril Fatface', serif; 
     font-style: italic;
     background-color: #FAF0EF;
+    color: #531949;
 }
 .osaaminen p {
     text-align: left;
@@ -363,6 +372,7 @@ textarea {
     font-family: 'Abril Fatface', serif; 
     font-style: italic;
     background-color: #FAF0EF;
+    color: #9B2728;
 }
 .lista {
     text-align: left;
