@@ -95,6 +95,13 @@ height: 200px;
     border-radius: 15px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);    
 }
+@media (max-width: 768px) {
+    box {
+        width: 90%; 
+        height: auto; 
+        margin: 0 auto; 
+    }
+}
 .box img {
     width: 80%;         
     height: auto;        
@@ -140,6 +147,13 @@ p {
     margin-bottom: 90px;
     border-radius: 15px;
 } 
+@media (max-width: 768px) {
+    box2 {
+        width: 90%; 
+        height: auto; 
+        margin: 0 auto; 
+    }
+}
 .box2 h1 {
     color: #9B2728;
 }
@@ -160,6 +174,13 @@ p {
     border-radius: 0px;       
     margin-bottom: 90px;
     border-radius: 15px;
+}
+@media (max-width: 768px) {
+    box3 {
+        width: 90%; 
+        height: auto; 
+        margin: 0 auto; 
+    }
 }
 .box3 h1 {
     color: #9B2728;
@@ -199,9 +220,9 @@ p {
 }
 @media (max-width: 768px) {
     oma-img {
-        width: 90%; /* Kuva vie 90% näytön leveydestä mobiililaitteilla */
-        height: auto; /* Säilyttää mittasuhteet */
-        margin: 0 auto; /* Keskittää kuvan */
+        width: 90%; 
+        height: auto; 
+        margin: 0 auto; 
     }
 }
 .kuvaminusta-img {
@@ -209,6 +230,13 @@ p {
     height: auto;
     border: 4px solid #FAF0EF;
     margin-bottom: 40px;
+}
+@media (max-width: 768px) {
+    kuvaminusta-img {
+        width: 90%; 
+        height: auto; 
+        margin: 0 auto; 
+    }
 }
 /* yhteydenottoboksi */
 form {
