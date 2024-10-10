@@ -216,8 +216,7 @@ p {
 .oma-img {
     width: auto;
     height: auto;
-    border: 4px solid #FAF0EF;
-    width: 80%;         
+    border: 4px solid #FAF0EF;       
 }
 @media (max-width: 768px) {
     oma-img {
