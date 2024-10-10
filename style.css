@@ -193,10 +193,16 @@ p {
     margin-top: 15px;
 }
 .oma-img {
-    width: 80%;         
-    height: auto;        
-    margin-top: 15px;    
-    border: 4px solid #FAF0EF;
+    width: auto;
+    height: auto;
+    border: 4px solid #FAF0EF;width: 80%;         
+}
+@media (max-width: 768px) {
+    oma-img {
+        width: 90%; /* Kuva vie 90% näytön leveydestä mobiililaitteilla */
+        height: auto; /* Säilyttää mittasuhteet */
+        margin: 0 auto; /* Keskittää kuvan */
+    }
 }
 .kuvaminusta-img {
     width: auto;
