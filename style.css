@@ -140,6 +140,12 @@ p {
     margin-bottom: 90px;
     border-radius: 15px;
 } 
+.box2 h1 {
+    color: #9B2728
+}
+.box2 p {
+    color: #531949
+}
 .box3 {
     background-color: #D3C8F2; 
     color: #FAF0EF;             
