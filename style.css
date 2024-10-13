@@ -208,7 +208,7 @@ p {
     width: auto;
     height: auto;
     border: 4px solid #FAF0EF;
-    margin-bottom: 90px;
+    padding: 20px;
 }
 @media (max-width: 480px) {
     kuvaminusta-img {
